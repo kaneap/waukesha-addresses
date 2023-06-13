@@ -1,0 +1,197 @@
+Yes, I can confirm that there are no legal restrictions on the use of the data.
+
+ 
+
+Below is our official disclaimer as well, though that’s not the same as saying its open data, but it’s what we rubber stamp our stuff nonetheless.  Hope that helps. 
+
+ 
+
+The information and depictions herein are for
+
+informational purposes only and Waukesha
+
+County specifically disclaims accuracy in this
+
+reproduction and specifically admonishes and
+
+advises that if specific and precise accuracy 
+
+is required, the same should be determined by
+
+procurement of certified maps, surveys, plats,
+
+Flood Insurance Studies, or other official
+
+means. Waukesha County will not be
+
+responsible for any damages which result
+
+from third party use of the information and
+
+depictions herein or for use which ignores this
+
+warning.
+
+ 
+
+ 
+
+Kim
+
+Waukesha County logo
+
+Kim Meinert
+
+She/Her/Hers
+
+Land Information Systems Analyst
+
+Dept of Parks and Land Use
+
+Land Resources Division
+
+Phone: 262.548.7816
+
+www.waukeshacounty.gov
+
+ 
+
+ 
+
+ 
+
+ 
+
+From: Alexander Kane <1998alexkane@gmail.com>
+Sent: Friday, December 16, 2022 6:51 AM
+To: Kimberly Meinert <KMeinert@waukeshacounty.gov>
+Subject: Re: Address Points Copyright
+
+ 
+
+CAUTION: This email originated from an unverified external source. Verify the legitimacy of the email before clicking links or opening attachments. If you believe this email is malicious in nature, please report it by using the Phish Alert button in Outlook.
+
+ 
+
+Hi Kim,
+
+ 
+
+Thanks, that did the trick!
+
+ 
+
+At risk of sounding too pedantic (better safe than sorry in any case:)) I would like to explicitly confirm that there are no legal restrictions or requirements for use of the data (or to explicitly grant permission to use your data in OpenStreetMap). This is important because OpenStreetMap data is redistributed under the Open Database License, and is in turn used in hundreds of applications.
+
+ 
+
+Thanks again,
+
+Alex
+
+ 
+
+Kimberly Meinert <KMeinert@waukeshacounty.gov> schrieb am Mo., 12. Dez. 2022, 23:00:
+
+Hi Alex – This happens to us sometimes when people start downloading, it all of a sudden starts becoming invisible.  Really frustrating bug, but I re-shared the service to see if that would do the trick.  Maybe try clearing your web browser cache as well.  Let me know if that fixes it for you!
+
+ 
+
+Kim
+
+ 
+
+From: Alexander Kane <1998alexkane@gmail.com>
+Sent: Monday, December 12, 2022 3:35 PM
+To: Kimberly Meinert <KMeinert@waukeshacounty.gov>
+Subject: Re: Address Points Copyright
+
+ 
+
+CAUTION: This email originated from an unverified external source. Verify the legitimacy of the email before clicking links or opening attachments. If you believe this email is malicious in nature, please report it by using the Phish Alert button in Outlook.
+
+ 
+
+Hi, thanks for getting back!
+
+ 
+
+Are there any usage restrictions or requirements which must be followed?
+
+ 
+
+Also, the download links on the site appears to be broken (an "API error" when I try to download the shapefile) (I was able to get it via UW-Madison''s archived version from 2019, but obviously the newest version would be preferable.)
+
+ 
+
+Thanks,
+
+Alex Kane
+
+ 
+
+Kimberly Meinert <KMeinert@waukeshacounty.gov> schrieb am Di., 6. Dez. 2022, 19:26:
+
+Hello!
+
+ 
+
+Our Open Data site is truly open data, so have at it.  The only thing I would caution is that the addresses outside our county that you might see are not updated as often and are not authoritative, but inside the county is, and is updated almost daily.
+
+ 
+
+If you have any other questions now or later, let me know.  We thank you for your interest!
+
+ 
+
+Best Regards,
+
+ 
+
+
+Kim Meinert
+
+She/Her/Hers
+
+Land Information Systems Analyst
+
+Dept of Parks and Land Use
+
+Land Resources Division
+
+Phone: 262.548.7816
+
+www.waukeshacounty.gov
+
+ 
+
+ 
+
+ 
+
+From: Alexander Kane <1998alexkane@gmail.com>
+Sent: Tuesday, December 6, 2022 10:20 AM
+To: landinformation <EDG_landinformation@waukeshacounty.gov>
+Subject: Address Points Copyright
+
+ 
+
+CAUTION: This email originated from an unverified external source. Verify the legitimacy of the email before clicking links or opening attachments. If you believe this email is malicious in nature, please report it by using the Phish Alert button in Outlook.
+
+ 
+
+Hello,
+
+ 
+
+I am an area resident and a volunteer for OpenStreetMap, the project that creates and distributes free geographic data for the world.
+
+ 
+
+I am very interested in using your dataset of address points to add addresses to houses and businesses throughout the county. Currently, no copyright information is given on this dataset, so I would like to clarify whether it falls under any particular licence, or whether it is in the public domain.
+
+ 
+
+Thank you very much!
+
+Alexander Kane
