@@ -1,0 +1,2272 @@
+{
+    "type": "FeatureCollection",
+    "generator": "JOSM",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:city": "Pewaukee",
+                "addr:housenumber": "1405",
+                "addr:postcode": "53072",
+                "addr:state": "WI",
+                "addr:street": "Capitol Drive",
+                "name": "Pick N Save"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -88.22944138579,
+                    43.08516285597
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:city": "Oconomowoc",
+                "addr:housenumber": "202",
+                "addr:postcode": "53066",
+                "addr:state": "WI",
+                "addr:street": "North Lake Road",
+                "amenity": "parking"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -88.49985767582,
+                    43.11296564575
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:city": "Sussex",
+                "addr:housenumber": "N62W23322",
+                "addr:postcode": "53089",
+                "addr:state": "WI",
+                "addr:street": "Silver Spring Drive",
+                "building:flats": "18"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -88.21135246569,
+                    43.13037422555
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:city": "Menomonee Falls",
+                "addr:housenumber": "N95W18419",
+                "addr:postcode": "53051",
+                "addr:state": "WI",
+                "addr:street": "County Line Road",
+                "is_building": "no",
+                "name": "Martinizing"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -88.13804269528,
+                    43.19008932131
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:city": "Waukesha",
+                "addr:housenumber": "515",
+                "addr:postcode": "53186",
+                "addr:state": "WI",
+                "addr:street": "Maple Avenue",
+                "amenity": "parking"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -88.23372182583,
+                    43.00839942811
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:city": "Oconomowoc",
+                "addr:housenumber": "267",
+                "addr:postcode": "53066",
+                "addr:state": "WI",
+                "addr:street": "Thurow Drive",
+                "building": "garages",
+                "capacity": "14"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -88.48227894726,
+                    43.10949371798
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:city": "Waukesha",
+                "addr:housenumber": "3505",
+                "addr:postcode": "53188",
+                "addr:state": "WI",
+                "addr:street": "Madison Street",
+                "description": "Lift Station",
+                "man_made": "pumping_station"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -88.29056119338,
+                    43.01354328249
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:city": "Sussex",
+                "addr:housenumber": "N62W23326",
+                "addr:postcode": "53089",
+                "addr:state": "WI",
+                "addr:street": "Silver Spring Drive",
+                "building:flats": "15"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -88.21113249327,
+                    43.13075332061
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:city": "Menomonee Falls",
+                "addr:housenumber": "W156N9250",
+                "addr:postcode": "53051",
+                "addr:state": "WI",
+                "addr:street": "Tipp Street",
+                "amenity": "parking"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -88.10319238567,
+                    43.18551975920
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:city": "Waukesha",
+                "addr:housenumber": "899",
+                "addr:postcode": "53186",
+                "addr:state": "WI",
+                "addr:street": "North Barstow Street",
+                "amenity": "parking"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -88.22865734954,
+                    43.01206302758
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:city": "Menomonee Falls",
+                "addr:housenumber": "N91W16121",
+                "addr:postcode": "53051",
+                "addr:state": "WI",
+                "addr:street": "Falls Parkway",
+                "is_building": "no",
+                "name": "5Below"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -88.11005910952,
+                    43.18437433198
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:city": "Menomonee Falls",
+                "addr:housenumber": "W197N4950",
+                "addr:postcode": "53051",
+                "addr:state": "WI",
+                "addr:street": "Hickory Street",
+                "building:flats": "61"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -88.15710392660,
+                    43.10690175587
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:city": "Brookfield",
+                "addr:housenumber": "12665",
+                "addr:postcode": "53005",
+                "addr:state": "WI",
+                "addr:street": "West Bluemound Road",
+                "name": "Trader Joe's"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -88.07015089135,
+                    43.03571212036
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:city": "Oconomowoc",
+                "addr:housenumber": "1410",
+                "addr:postcode": "53066",
+                "addr:state": "WI",
+                "addr:street": "Oconomowoc Parkway",
+                "leisure": "park",
+                "name": "Chapman Park",
+                "true": "A"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -88.47734141716,
+                    43.10071360985
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:city": "Menomonee Falls",
+                "addr:housenumber": "N88W15559",
+                "addr:postcode": "53051",
+                "addr:state": "WI",
+                "addr:street": "Main Street",
+                "is_building": "no",
+                "name": "Wal-Mart Neighborhood Market"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -88.10236467469,
+                    43.17792168115
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:city": "Brookfield",
+                "addr:housenumber": "16970",
+                "addr:postcode": "53005",
+                "addr:state": "WI",
+                "addr:street": "West Bluemound Road",
+                "name": "Ulta"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -88.12369698665,
+                    43.03825194991
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:city": "Delafield",
+                "addr:housenumber": "2701",
+                "addr:postcode": "53018",
+                "addr:state": "WI",
+                "addr:street": "Golf Road",
+                "amenity": "parking",
+                "true": "A"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -88.37243751695,
+                    43.05493262817
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:city": "Menomonee Falls",
+                "addr:housenumber": "N95W18453",
+                "addr:postcode": "53051",
+                "addr:state": "WI",
+                "addr:street": "County Line Road",
+                "is_building": "no",
+                "name": "Payless"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -88.13830251709,
+                    43.19013998944
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:city": "Pewaukee",
+                "addr:housenumber": "W274N1490",
+                "addr:postcode": "53072",
+                "addr:state": "WI",
+                "addr:street": "Riverland Drive",
+                "amenity": "place_of_worship",
+                "denomination": "baptist",
+                "name": "Lakewood Baptist Church",
+                "religion": "christian"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -88.29328982265,
+                    43.05106176196
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:city": "Mukwonago",
+                "addr:housenumber": "W298S8910",
+                "addr:postcode": "53149",
+                "addr:state": "WI",
+                "addr:street": "State Highway 83",
+                "amenity": "parking",
+                "true": "A"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -88.34255378749,
+                    42.88271245735
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:city": "Menomonee Falls",
+                "addr:housenumber": "N72W13536",
+                "addr:postcode": "53051",
+                "addr:state": "WI",
+                "addr:street": "Lund Lane",
+                "building:flats": "33"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -88.07857721889,
+                    43.15039007587
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:city": "Menomonee Falls",
+                "addr:housenumber": "N84W15740",
+                "addr:postcode": "53051",
+                "addr:state": "WI",
+                "addr:street": "Appleton Avenue",
+                "is_building": "no",
+                "name": "OReilly's"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -88.10510986699,
+                    43.17116442701
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:city": "Pewaukee",
+                "addr:housenumber": "1293",
+                "addr:postcode": "53072",
+                "addr:state": "WI",
+                "addr:street": "Capitol Drive",
+                "name": "Jilly's Car Wash"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -88.23339082014,
+                    43.08488950660
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:city": "Mukwonago",
+                "addr:housenumber": "712",
+                "addr:postcode": "53149",
+                "addr:state": "WI",
+                "addr:street": "Main Street",
+                "shop": "alcohol"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -88.33170462903,
+                    42.85766452261
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:city": "Menomonee Falls",
+                "addr:housenumber": "N88W15092",
+                "addr:postcode": "53051",
+                "addr:state": "WI",
+                "addr:street": "Main Street",
+                "building:flats": "36"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -88.09744224537,
+                    43.17809791996
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:city": "Menomonee Falls",
+                "addr:housenumber": "N95W18373",
+                "addr:postcode": "53051",
+                "addr:state": "WI",
+                "addr:street": "County Line Road",
+                "is_building": "no",
+                "name": "GNC"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -88.13792424879,
+                    43.19008852654
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:city": "Pewaukee",
+                "addr:housenumber": "2001",
+                "addr:postcode": "53072",
+                "addr:state": "WI",
+                "addr:street": "Golf Road",
+                "name": "Kwik Trip"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -88.25828467362,
+                    43.04852706827
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:city": "Pewaukee",
+                "addr:housenumber": "2205",
+                "addr:postcode": "53072",
+                "addr:state": "WI",
+                "addr:street": "Silvernail Road",
+                "name": "Good Harvest"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -88.26312075410,
+                    43.04351089191
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:city": "Oconomowoc",
+                "addr:housenumber": "115",
+                "addr:postcode": "53066",
+                "addr:state": "WI",
+                "addr:street": "Silver Lake Plaza",
+                "name": "The Gateway"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -88.49530798572,
+                    43.10953865730
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:city": "Sussex",
+                "addr:housenumber": "N62W23328",
+                "addr:postcode": "53089",
+                "addr:state": "WI",
+                "addr:street": "Silver Spring Drive",
+                "building:flats": "15"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -88.21105460688,
+                    43.13113007700
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:city": "Menomonee Falls",
+                "addr:housenumber": "N88W16734",
+                "addr:postcode": "53051",
+                "addr:state": "WI",
+                "addr:street": "Appleton Avenue",
+                "amenity": "parking"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -88.11742140719,
+                    43.17952216296
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:city": "Waukesha",
+                "addr:housenumber": "650",
+                "addr:postcode": "53186",
+                "addr:state": "WI",
+                "addr:street": "Larry Court",
+                "name": "Homewood Suites"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -88.17430674661,
+                    43.03784828335
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:city": "Menomonee Falls",
+                "addr:housenumber": "N88W15483",
+                "addr:postcode": "53051",
+                "addr:state": "WI",
+                "addr:street": "Main Street",
+                "is_building": "no",
+                "name": "Friends of Nature"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -88.10170301282,
+                    43.17783394921
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:city": "Pewaukee",
+                "addr:housenumber": "N49W22990",
+                "addr:postcode": "53072",
+                "addr:state": "WI",
+                "addr:street": "Commerce Centre Drive",
+                "name": "Ferguson Waterworks"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -88.20350436261,
+                    43.10680739568
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:city": "Oconomowoc",
+                "addr:housenumber": "N49W35899",
+                "addr:postcode": "53066",
+                "addr:state": "WI",
+                "addr:street": "Wisconsin Avenue",
+                "amenity": "parking"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -88.46023429293,
+                    43.10894247707
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:city": "Waukesha",
+                "addr:housenumber": "S39W30771",
+                "addr:postcode": "53189",
+                "addr:state": "WI",
+                "addr:street": "County Highway D",
+                "man_made": "tower",
+                "tower:type": "communication"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -88.35994118976,
+                    42.97265101260
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:city": "Menomonee Falls",
+                "addr:housenumber": "N87W16453",
+                "addr:postcode": "53051",
+                "addr:state": "WI",
+                "addr:street": "Appleton Avenue",
+                "is_building": "no",
+                "name": "Security Finance"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -88.11443260073,
+                    43.17562358036
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:city": "Menomonee Falls",
+                "addr:housenumber": "N84W15690",
+                "addr:postcode": "53051",
+                "addr:state": "WI",
+                "addr:street": "Appleton Avenue",
+                "is_building": "no",
+                "name": "Dollar Tree"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -88.10487617030,
+                    43.17103106683
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:city": "Brookfield",
+                "addr:housenumber": "15905",
+                "addr:postcode": "53005",
+                "addr:state": "WI",
+                "addr:street": "West Wisconsin Avenue",
+                "name": "Artisan Development"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -88.11063809365,
+                    43.03806596395
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:city": "Delafield",
+                "addr:housenumber": "603",
+                "addr:postcode": "53018",
+                "addr:state": "WI",
+                "addr:street": "Main Street",
+                "name": "Main Stream Fashion"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -88.40388908252,
+                    43.06101549793
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:city": "Menomonee Falls",
+                "addr:housenumber": "N89W16899",
+                "addr:postcode": "53051",
+                "addr:state": "WI",
+                "addr:street": "Appleton Avenue",
+                "is_building": "no",
+                "name": "Planet Fitness"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -88.12021779574,
+                    43.18064892128
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:city": "New Berlin",
+                "addr:housenumber": "4950",
+                "addr:postcode": "53151",
+                "addr:state": "WI",
+                "addr:street": "South Moorland Road",
+                "amenity": "parking"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -88.10810851747,
+                    42.95448603753
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:city": "Hartland",
+                "addr:housenumber": "2851",
+                "addr:postcode": "53029",
+                "addr:state": "WI",
+                "addr:street": "Oakwood Road",
+                "name": "Oakwood Community Park"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -88.36921957404,
+                    43.07772551772
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:city": "Menomonee Falls",
+                "addr:housenumber": "N91W16051",
+                "addr:postcode": "53051",
+                "addr:state": "WI",
+                "addr:street": "Falls Parkway",
+                "is_building": "no",
+                "name": "Ulta"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -88.10894325154,
+                    43.18433908616
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:city": "Waukesha",
+                "addr:housenumber": "1927",
+                "addr:postcode": "53189",
+                "addr:state": "WI",
+                "addr:street": "East Sunset Drive",
+                "note": "Park Address"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -88.19526968717,
+                    42.98683886911
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:city": "Oconomowoc",
+                "addr:housenumber": "120",
+                "addr:postcode": "53066",
+                "addr:state": "WI",
+                "addr:street": "South Cross Street",
+                "amenity": "parking"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -88.49787311950,
+                    43.10975000215
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:city": "Big Bend",
+                "addr:housenumber": "W232S7391",
+                "addr:postcode": "53103",
+                "addr:state": "WI",
+                "addr:street": "Woodland Lane",
+                "amenity": "parking"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -88.21544888858,
+                    42.91016014959
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:city": "Menomonee Falls",
+                "addr:housenumber": "N88W15413",
+                "addr:postcode": "53051",
+                "addr:state": "WI",
+                "addr:street": "Main Street",
+                "is_building": "no",
+                "name": "Otto's"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -88.10122216050,
+                    43.17776840587
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:city": "Pewaukee",
+                "addr:housenumber": "209",
+                "addr:postcode": "53072",
+                "addr:state": "WI",
+                "addr:street": "Pewaukee Road",
+                "amenity": "clinic"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -88.22565510458,
+                    43.08437366821
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:city": "Oconomowoc",
+                "addr:housenumber": "128",
+                "addr:postcode": "53066",
+                "addr:state": "WI",
+                "addr:street": "West Wisconsin Avenue",
+                "amenity": "parking"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -88.50034906677,
+                    43.11176771416
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:city": "Sussex",
+                "addr:housenumber": "N62W23302",
+                "addr:postcode": "53089",
+                "addr:state": "WI",
+                "addr:street": "Silver Spring Drive",
+                "building:flats": "18"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -88.21041811388,
+                    43.13068635111
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:city": "Menomonee Falls",
+                "addr:housenumber": "N91W16101",
+                "addr:postcode": "53051",
+                "addr:state": "WI",
+                "addr:street": "Falls Parkway",
+                "is_building": "no",
+                "name": "Ross"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -88.10969894445,
+                    43.18436088991
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:city": "Waukesha",
+                "addr:housenumber": "234",
+                "addr:postcode": "53186",
+                "addr:state": "WI",
+                "addr:street": "Cutler Street",
+                "amenity": "parking"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -88.23075009035,
+                    43.00691908161
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:city": "Waukesha",
+                "addr:housenumber": "204",
+                "addr:postcode": "53189",
+                "addr:state": "WI",
+                "addr:street": "East Sunset Drive",
+                "is_building": "no",
+                "shop": "hairdresser"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -88.22307117717,
+                    42.98965338765
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:city": "Oconomowoc",
+                "addr:housenumber": "101",
+                "addr:postcode": "53066",
+                "addr:state": "WI",
+                "addr:street": "West 3rd Street",
+                "amenity": "parking"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -88.49955538717,
+                    43.10827803180
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:city": "Brookfield",
+                "addr:housenumber": "12400",
+                "addr:postcode": "53005",
+                "addr:state": "WI",
+                "addr:street": "West Capitol Drive",
+                "name": "Starbucks"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -88.06686004791,
+                    43.08942667509
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:city": "Menomonee Falls",
+                "addr:housenumber": "N88W16683",
+                "addr:postcode": "53051",
+                "addr:state": "WI",
+                "addr:street": "Main Street",
+                "is_building": "no",
+                "name": "Nino's Italian Bakery"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -88.11689743503,
+                    43.17876970448
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:city": "Waukesha",
+                "addr:housenumber": "340",
+                "addr:postcode": "53186",
+                "addr:state": "WI",
+                "addr:street": "Wisconsin Avenue",
+                "amenity": "parking"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -88.23339510600,
+                    43.01023986803
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:city": "Menomonee Falls",
+                "addr:housenumber": "N95W18311",
+                "addr:postcode": "53051",
+                "addr:state": "WI",
+                "addr:street": "County Line Road",
+                "is_building": "no",
+                "name": "Guaranty Bank"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -88.13643143822,
+                    43.19008935064
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:city": "Pewaukee",
+                "addr:housenumber": "W237N4188",
+                "addr:postcode": "53072",
+                "addr:state": "WI",
+                "addr:street": "Frances Boulevard",
+                "man_made": "pumping_station"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -88.22101907444,
+                    43.09399384946
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:city": "Brookfield",
+                "addr:housenumber": "16950",
+                "addr:postcode": "53005",
+                "addr:state": "WI",
+                "addr:street": "West Bluemound Road",
+                "name": "SteinMart"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -88.12366952571,
+                    43.03860220230
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:city": "Menomonee Falls",
+                "addr:housenumber": "N91W15901",
+                "addr:postcode": "53051",
+                "addr:state": "WI",
+                "addr:street": "Falls Parkway",
+                "tourism": "hotel"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -88.10773063267,
+                    43.18345436042
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:city": "Oconomowoc",
+                "addr:housenumber": "1410",
+                "addr:postcode": "53066",
+                "addr:state": "WI",
+                "addr:street": "Oconomowoc Parkway",
+                "leisure": "park",
+                "name": "Chapman Park"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -88.46220288405,
+                    43.08157154905
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:city": "Menomonee Falls",
+                "addr:housenumber": "N89W16863",
+                "addr:postcode": "53051",
+                "addr:state": "WI",
+                "addr:street": "Appleton Avenue",
+                "is_building": "no",
+                "name": "Cho's"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -88.12009609500,
+                    43.18040427967
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:city": "Brookfield",
+                "addr:housenumber": "16730",
+                "addr:postcode": "53005",
+                "addr:state": "WI",
+                "addr:street": "West Bluemound Road",
+                "name": "Five Guys"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -88.12117335947,
+                    43.03785158103
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:city": "Delafield",
+                "addr:housenumber": "615",
+                "addr:postcode": "53018",
+                "addr:state": "WI",
+                "addr:street": "Main Street",
+                "name": "Bennoli Pizza"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -88.40340457518,
+                    43.06100965570
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:city": "Menomonee Falls",
+                "addr:housenumber": "N95W18473",
+                "addr:postcode": "53051",
+                "addr:state": "WI",
+                "addr:street": "County Line Road",
+                "is_building": "no",
+                "name": "Gamestop"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -88.13851102693,
+                    43.19014607107
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:city": "New Berlin",
+                "addr:housenumber": "2445",
+                "addr:postcode": "53146",
+                "addr:state": "WI",
+                "addr:street": "South 179th Street",
+                "name": "Skywalker Communications"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -88.13541905179,
+                    42.99995894366
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:city": "Mukwonago",
+                "addr:housenumber": "191",
+                "addr:postcode": "53149",
+                "addr:state": "WI",
+                "addr:street": "Holz Parkway",
+                "amenity": "parking",
+                "true": "A"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -88.32127301291,
+                    42.85382193649
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:city": "Menomonee Falls",
+                "addr:housenumber": "N92W15924",
+                "addr:postcode": "53051",
+                "addr:state": "WI",
+                "addr:street": "Falls Parkway",
+                "description": "address on monument sign so WE Energies can locate for needed work"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -88.10775938414,
+                    43.18483702514
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:city": "Menomonee Falls",
+                "addr:housenumber": "N89W16853",
+                "addr:postcode": "53051",
+                "addr:state": "WI",
+                "addr:street": "Appleton Avenue",
+                "is_building": "no",
+                "name": "Nail salon"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -88.11991567010,
+                    43.18025286723
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:city": "Pewaukee",
+                "addr:housenumber": "387",
+                "addr:postcode": "53072",
+                "addr:state": "WI",
+                "addr:street": "Pewaukee Road",
+                "name": "Tires Plus"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -88.22564887761,
+                    43.08525977830
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:city": "Mukwonago",
+                "addr:housenumber": "S79W28750",
+                "addr:postcode": "53149",
+                "addr:state": "WI",
+                "addr:street": "Frog Alley Road",
+                "amenity": "parking",
+                "true": "A"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -88.32059187222,
+                    42.90232249402
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:city": "Lannon",
+                "addr:housenumber": "W220N6980",
+                "addr:postcode": "53046",
+                "addr:state": "WI",
+                "addr:street": "North Town Line Road",
+                "name": "Swede's Plant"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -88.18171889049,
+                    43.14515112656
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:city": "Menomonee Falls",
+                "addr:housenumber": "N96W18515",
+                "addr:postcode": "53051",
+                "addr:state": "WI",
+                "addr:street": "County Line Road",
+                "is_building": "no",
+                "name": "JC Penney"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -88.13937978067,
+                    43.18990507948
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:city": "Waukesha",
+                "addr:housenumber": "W231N1133",
+                "addr:postcode": "53186",
+                "addr:state": "WI",
+                "addr:street": "Redford Boulevard",
+                "amenity": "parking"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -88.20827612658,
+                    43.04556738293
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:city": "Oconomowoc",
+                "addr:housenumber": "120",
+                "addr:postcode": "53066",
+                "addr:state": "WI",
+                "addr:street": "Saint Paul Street",
+                "amenity": "parking"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -88.49694388691,
+                    43.11135733743
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:city": "Sussex",
+                "addr:housenumber": "N62W23346",
+                "addr:postcode": "53089",
+                "addr:state": "WI",
+                "addr:street": "Silver Spring Drive",
+                "building:flats": "12"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -88.21109112464,
+                    43.13144921113
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:city": "Menomonee Falls",
+                "addr:housenumber": "N95W18437",
+                "addr:postcode": "53051",
+                "addr:state": "WI",
+                "addr:street": "County Line Road",
+                "is_building": "no",
+                "name": "Visionworks"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -88.13814529560,
+                    43.19009085107
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:city": "Brookfield",
+                "addr:housenumber": "301",
+                "addr:postcode": "53045",
+                "addr:state": "WI",
+                "addr:street": "North Barker Road",
+                "amenity": "parking"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -88.16780884645,
+                    43.03485622286
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:city": "Menomonee Falls",
+                "addr:housenumber": "N89W16859",
+                "addr:postcode": "53051",
+                "addr:state": "WI",
+                "addr:street": "Appleton Avenue",
+                "is_building": "no",
+                "name": "Quiznos"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -88.12000142723,
+                    43.18031693518
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:city": "Sussex",
+                "addr:housenumber": "N62W23388",
+                "addr:postcode": "53089",
+                "addr:state": "WI",
+                "addr:street": "Silver Spring Drive",
+                "building:flats": "19"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -88.21193894195,
+                    43.13079509569
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:city": "Menomonee Falls",
+                "addr:housenumber": "W165N8950",
+                "addr:postcode": "53051",
+                "addr:state": "WI",
+                "addr:street": "Grand Avenue",
+                "amenity": "fast_food",
+                "description": "Mill Pond Park concession stand"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -88.11488870381,
+                    43.18037177145
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:city": "Waukesha",
+                "addr:housenumber": "724",
+                "addr:postcode": "53186",
+                "addr:state": "WI",
+                "addr:street": "Clinton Street",
+                "amenity": "parking"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -88.23297336086,
+                    43.01044181423
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:city": "Menomonee Falls",
+                "addr:housenumber": "W186N9511",
+                "addr:postcode": "53051",
+                "addr:state": "WI",
+                "addr:street": "Bancroft Drive",
+                "is_building": "no",
+                "name": "Robert M Jewelers"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -88.14122321577,
+                    43.19048864495
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:city": "Menomonee Falls",
+                "addr:housenumber": "N87W16462",
+                "addr:postcode": "53051",
+                "addr:state": "WI",
+                "addr:street": "Jacobson Drive",
+                "is_building": "no",
+                "name": "Lush Salon"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -88.11459845700,
+                    43.17538864643
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:city": "Brookfield",
+                "addr:housenumber": "335",
+                "addr:postcode": "53005",
+                "addr:state": "WI",
+                "addr:street": "South Moorland Road",
+                "description": "Transformer building"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -88.11166320918,
+                    43.02854486937
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:city": "Delafield",
+                "addr:housenumber": "611",
+                "addr:postcode": "53018",
+                "addr:state": "WI",
+                "addr:street": "Main Street",
+                "name": "Bangles and Bags"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -88.40356898102,
+                    43.06101124735
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:city": "Menomonee Falls",
+                "addr:housenumber": "N95W18407",
+                "addr:postcode": "53051",
+                "addr:state": "WI",
+                "addr:street": "County Line Road",
+                "is_building": "no",
+                "name": "Papa Murphy's"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -88.13784823360,
+                    43.19008570229
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:city": "Brookfield",
+                "addr:housenumber": "17500",
+                "addr:postcode": "53045",
+                "addr:state": "WI",
+                "addr:street": "West Bluemound Road",
+                "name": "ATI Physical Therapy"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -88.13041654032,
+                    43.03774473521
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:city": "Nashotah",
+                "addr:housenumber": "N45W33101",
+                "addr:postcode": "53058",
+                "addr:state": "WI",
+                "addr:street": "Wisconsin Avenue",
+                "amenity": "parking"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -88.40364604511,
+                    43.10330384846
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:city": "Menomonee Falls",
+                "addr:housenumber": "N91W16067",
+                "addr:postcode": "53051",
+                "addr:state": "WI",
+                "addr:street": "Falls Parkway",
+                "is_building": "no",
+                "name": "Home Goods"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -88.10930014059,
+                    43.18434860812
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:city": "Pewaukee",
+                "addr:housenumber": "201",
+                "addr:postcode": "53072",
+                "addr:state": "WI",
+                "addr:street": "Oakton Avenue",
+                "amenity": "parking"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -88.26117769847,
+                    43.08350254413
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:city": "Mukwonago",
+                "addr:housenumber": "710",
+                "addr:postcode": "53149",
+                "addr:state": "WI",
+                "addr:street": "Main Street",
+                "amenity": "fuel",
+                "true": "A"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -88.33171071183,
+                    42.85773497624
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:city": "Waukesha",
+                "addr:housenumber": "S67W26165",
+                "addr:postcode": "53189",
+                "addr:state": "WI",
+                "addr:street": "Benson Avenue",
+                "amenity": "parking"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -88.27177683353,
+                    42.92301643550
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:city": "Menomonee Falls",
+                "addr:housenumber": "N95W18463",
+                "addr:postcode": "53051",
+                "addr:state": "WI",
+                "addr:street": "County Line Road",
+                "is_building": "no",
+                "name": "Bath and Body Works"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -88.13841689141,
+                    43.19014373902
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:city": "Pewaukee",
+                "addr:housenumber": "N13W26975",
+                "addr:postcode": "53072",
+                "addr:state": "WI",
+                "addr:street": "Golf Road",
+                "amenity": "parking"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -88.28448243182,
+                    43.05051536126
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:city": "Oconomowoc",
+                "addr:housenumber": "39",
+                "addr:postcode": "53066",
+                "addr:state": "WI",
+                "addr:street": "South Main Street",
+                "amenity": "parking"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -88.49904476834,
+                    43.11052711791
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:city": "Menomonee Falls",
+                "addr:housenumber": "N72W13540",
+                "addr:postcode": "53051",
+                "addr:state": "WI",
+                "addr:street": "Lund Lane",
+                "building:flats": "24"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -88.07869166845,
+                    43.14980046405
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:city": "Menomonee Falls",
+                "addr:housenumber": "N87W16460",
+                "addr:postcode": "53051",
+                "addr:state": "WI",
+                "addr:street": "Jacobson Drive",
+                "is_building": "no",
+                "name": "El Paso Western Gear"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -88.11451909582,
+                    43.17542878578
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:city": "Pewaukee",
+                "addr:housenumber": "130",
+                "addr:postcode": "53072",
+                "addr:state": "WI",
+                "addr:street": "Dynex Drive",
+                "name": "Kwik Trip"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -88.25266057731,
+                    43.08287005659
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:city": "Oconomowoc",
+                "addr:housenumber": "1340",
+                "addr:postcode": "53066",
+                "addr:state": "WI",
+                "addr:street": "West Wisconsin Avenue",
+                "building:flats": "47"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -88.52049480782,
+                    43.12103083489
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:city": "Sussex",
+                "addr:housenumber": "N62W23334",
+                "addr:postcode": "53089",
+                "addr:state": "WI",
+                "addr:street": "Silver Spring Drive",
+                "building:flats": "10"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -88.21016953873,
+                    43.13124747337
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:city": "Menomonee Falls",
+                "addr:housenumber": "N87W16649",
+                "addr:postcode": "53051",
+                "addr:state": "WI",
+                "addr:street": "Mill Street",
+                "amenity": "theatre",
+                "theatre:type": "amphi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -88.11671161536,
+                    43.17631213827
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:city": "Waukesha",
+                "addr:housenumber": "224",
+                "addr:postcode": "53186",
+                "addr:state": "WI",
+                "addr:street": "South Street",
+                "amenity": "parking"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -88.22983881775,
+                    43.01096401250
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:city": "Menomonee Falls",
+                "addr:housenumber": "N91W16123",
+                "addr:postcode": "53051",
+                "addr:state": "WI",
+                "addr:street": "Falls Parkway",
+                "is_building": "no",
+                "name": "TJMaxx"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -88.11041059630,
+                    43.18437450556
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:city": "New Berlin",
+                "addr:housenumber": "15205",
+                "addr:postcode": "53151",
+                "addr:state": "WI",
+                "addr:street": "West Greenfield Avenue",
+                "name": "Wal-Mart"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -88.10409945481,
+                    43.01455031640
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:city": "Brookfield",
+                "addr:housenumber": "16700",
+                "addr:postcode": "53005",
+                "addr:state": "WI",
+                "addr:street": "West Bluemound Road",
+                "name": "Catherine's"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -88.12126560940,
+                    43.03897817260
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:city": "Menomonee Falls",
+                "addr:housenumber": "N88W16634",
+                "addr:postcode": "53051",
+                "addr:state": "WI",
+                "addr:street": "Appleton Avenue",
+                "amenity": "parking"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -88.11632596781,
+                    43.17830303876
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:city": "Oconomowoc",
+                "addr:housenumber": "W349S1480",
+                "addr:postcode": "53066",
+                "addr:state": "WI",
+                "addr:street": "Waterville Road",
+                "description": "Wildlife in Need Center"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -88.44024923569,
+                    43.01654431146
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:city": "Menomonee Falls",
+                "addr:housenumber": "N89W16849",
+                "addr:postcode": "53051",
+                "addr:state": "WI",
+                "addr:street": "Appleton Avenue",
+                "is_building": "no",
+                "name": "Fresh Thyme"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -88.11975360785,
+                    43.17990774219
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:city": "Menomonee Falls",
+                "addr:housenumber": "N95W18281",
+                "addr:postcode": "53051",
+                "addr:state": "WI",
+                "addr:street": "County Line Road",
+                "is_building": "no",
+                "name": "Hobby Lobby"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -88.13605128326,
+                    43.18985200387
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:city": "Brookfield",
+                "addr:housenumber": "17530",
+                "addr:postcode": "53045",
+                "addr:state": "WI",
+                "addr:street": "West Bluemound Road",
+                "name": "Blaze Pizza"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -88.13054671336,
+                    43.03774458840
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:city": "Delafield",
+                "addr:housenumber": "3195",
+                "addr:postcode": "53018",
+                "addr:state": "WI",
+                "addr:street": "Hillside Drive",
+                "name": "Children's Hospital Clinic"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -88.36741304660,
+                    43.04949933432
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:city": "Menomonee Falls",
+                "addr:housenumber": "N95W18397",
+                "addr:postcode": "53051",
+                "addr:state": "WI",
+                "addr:street": "County Line Road",
+                "is_building": "no",
+                "name": "Springleaf Financial"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -88.13774003878,
+                    43.19008217018
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:city": "Brookfield",
+                "addr:housenumber": "16720",
+                "addr:postcode": "53005",
+                "addr:state": "WI",
+                "addr:street": "West Bluemound Road",
+                "name": "US Cellular"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -88.12118949018,
+                    43.03770633532
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:city": "Waukesha",
+                "addr:housenumber": "S67W28745",
+                "addr:postcode": "53189",
+                "addr:state": "WI",
+                "addr:street": "River Road",
+                "amenity": "parking",
+                "true": "A"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -88.32085722125,
+                    42.92197508840
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:city": "Delafield",
+                "addr:housenumber": "607",
+                "addr:postcode": "53018",
+                "addr:state": "WI",
+                "addr:street": "Main Street",
+                "name": "Lieblang Leather"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -88.40377760466,
+                    43.06101464886
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:city": "Menomonee Falls",
+                "addr:housenumber": "W186N9521",
+                "addr:postcode": "53051",
+                "addr:state": "WI",
+                "addr:street": "Bancroft Drive",
+                "is_building": "no",
+                "name": "MW Alterations"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -88.14121169212,
+                    43.19070303604
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:city": "Brookfield",
+                "addr:housenumber": "1435",
+                "addr:postcode": "53045",
+                "addr:state": "WI",
+                "addr:street": "North Brookfield Road",
+                "man_made": "mast",
+                "tower:type": "communication"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -88.14726840226,
+                    43.05030979001
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:city": "Oconomowoc",
+                "addr:housenumber": "221",
+                "addr:postcode": "53066",
+                "addr:state": "WI",
+                "addr:street": "West Wisconsin Avenue",
+                "amenity": "parking"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -88.50172775464,
+                    43.11146235106
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:city": "Menomonee Falls",
+                "addr:housenumber": "N72W13529",
+                "addr:postcode": "53051",
+                "addr:state": "WI",
+                "addr:street": "Lund Lane",
+                "building:flats": "24"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -88.07847826369,
+                    43.14940629929
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:city": "Menomonee Falls",
+                "addr:housenumber": "N95W18351",
+                "addr:postcode": "53051",
+                "addr:state": "WI",
+                "addr:street": "County Line Road",
+                "is_building": "no",
+                "name": "Pick N Save"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -88.13714955582,
+                    43.18985677097
+                ]
+            }
+        }
+    ]
+}
